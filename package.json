@@ -1,0 +1,20 @@
+{
+  "name": "typescript-tdd",
+  "version": "1.0.0",
+  "description": "TypeScript TDD examples with Jest",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "author": {
+    "name": "Demur Nodia",
+    "url": "https://demonno.com/"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^26.0.23",
+    "jest": "^27.0.1",
+    "ts-jest": "^27.0.0",
+    "typescript": "^4.2.4"
+  }
+}
